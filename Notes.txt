@@ -1,0 +1,25 @@
+HTML5 - Hyper Text Markup Language (<head> content </head>)
+===> To create a Web page
+===> It is Not a Programming Language
+===> It is Markup Language (8 bit)
+===> Every website can Start with HTML5
+
+Self Closing Tags - hr, meta, br, img
+
+1) Heading - h1 to h6
+
+2) Paragraph - p
+
+3) Horizontal - hr
+
+4) break tag - br
+
+5) Text Formatting - i, b or strong, u, sub, sup and mark
+
+6) Anchor tag (Linking) - a
+
+7) Image tag - img
+
+8) List - Ordered list and Unordered list
+
+9) Tables - tr, th and td
