@@ -4,7 +4,7 @@ HTML5 - Hyper Text Markup Language (<head> content </head>)
 ===> It is Markup Language (8 bit)
 ===> Every website can Start with HTML5
 
-Self Closing Tags - hr, meta, br, img
+Self Closing Tags - hr, meta, br, img, input
 
 1) Heading - h1 to h6
 
@@ -23,3 +23,11 @@ Self Closing Tags - hr, meta, br, img
 8) List - Ordered list and Unordered list
 
 9) Tables - tr, th and td
+
+10) Forms - label, input, placeholder, button, type(importent), fieldset, required and legend
+
+11) Media Elements - Video and audio
+
+12) Sematic Tags - header, footer, section, nav and main
+
+13) Divion tag (Div) and Span
