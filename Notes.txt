@@ -59,3 +59,28 @@ ii) Class Selector - (.) - Multiple - No of times we can use the same class name
 iii) id Selector - (#) - Unique - Only one time we can use the sdame id name
 iv) Universal Selector - (*) - Give some style, it will apply into the entire site
 v) Group Selector - Class or id Selector contains different tags, in that different tags we want to Change the same style means we can go with Group Selector
+
+4) Colors and background
+===> Colors - name, RGB, Hex
+
+===> background
+    background-image: url(./Assets/images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+5) Text Styling
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: line-through;
+    font-weight: 900;
+    line-height: 2px;
+    letter-spacing: 5px;    
+
+6) Box Modeling
+---> content
+---> Padding - around the content is called Padding
+---> Border - around the padding is called Border
+---> Margin - around the Border is called Margin  
