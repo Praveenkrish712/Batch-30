@@ -91,3 +91,21 @@ ii) Relative - using position:Relative to be set the limit like left,right,top,b
 iii) Absolute - Absolute can search the non-static parent, once reach the non-static parent it will act as a same Relative, otherwise it will seaech one more ....... there is no non-static parent means it will directly go to the root(body) of the website/webpage...
 iv) Fixed - to be fixed to the place
 v) Sticky - using top:0, once reach the top:0 it will act as a same fixed
+
+8) Display - block(default), Inline, Inline-block, flex, grid and none
+
+       flex                             grid
+  One dimensional layout          Two dimensional layout
+  Row Or Column                   Row And Column 
+   Ex: Navbar, cards              Ex: section, dashboard
+
+=====> flex
+i) Using Display: flex  (Column into row)   
+ii) Flex direction - row, row-reverse, Column, column-reverse
+iii) justify-content (X) - start, center, end, space-around, space-evenly, space-between
+iv) Align-items (Y) (set the height) - Start, center, end
+v) gap - to be set the values
+vi) flex-wrap - nowrap, wrap, wrap-reverse
+vii) align-content (Y) (set the height) (flex-wrap is enable) - start, center, end, space-around, space-evenly, space-between
+viii) flex on items - flex 1,2,3
+ix) order - Change the visual order of the property
